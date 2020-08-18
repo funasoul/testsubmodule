@@ -1,0 +1,6 @@
+[submodule "unetdl4j"]
+	path = unetdl4j
+	url = https://github.com/Medha-B/unetdl4j.git
+[submodule "XitoSBML"]
+	path = XitoSBML
+	url = https://github.com/Medha-B/XitoSBML.git
