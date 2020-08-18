@@ -15,7 +15,6 @@
 <version>1.0-SNAPSHOT</version>
 
 <name>wrap</name>
-	<!-- FIXME change it to the project's website -->
 <description>A plugin to create SBML model from microscopic images</description>
 <url>http://github.com/spatialsimulator/XitoSBML</url>
 <inceptionYear>2017</inceptionYear>
@@ -47,7 +46,20 @@
 	<developer>
 		<id>kaitoii11</id>
 		<name>Kaito Ii</name>
-		<url>http://github.com/kaitoii11</url>
+		<url>https://github.com/kaitoii11</url>
+		<roles>
+			<role>lead</role>
+			<role>developer</role>
+			<role>debugger</role>
+			<role>reviewer</role>
+			<role>support</role>
+			<role>maintainer</role>
+		</roles>
+	</developer>
+	<developer>
+    <id>tokkuman</id>
+		<name>Yuta Tokuoka</name>
+		<url>https://github.com/tokkuman</url>
 		<roles>
 			<role>lead</role>
 			<role>developer</role>
@@ -60,22 +72,11 @@
 </developers>
 <contributors>
 	<contributor>
-		<name>Kota Mashimo</name>
-		<url>https://github.com/KotaMashimo</url>
+		<name>Yuta Tokuoka</name>
+		<url>https://github.com/tokkuman</url>
 		<properties>
-			<id>KotaMashimo</id>
+			<id>tokkuman</id>
 		</properties>
-	</contributor>
-	<contributor>
-		<name>Mitsunori Ozeki</name>
-		<url>https://github.com/MittsuMan</url>
-		<properties>
-			<id>MittsuMan</id>
-		</properties>
-	</contributor>
-	<contributor>
-		<name>Noriko Hiroi</name>
-		<url>https://fun.bio.keio.ac.jp/~hiroi/</url>
 	</contributor>
 </contributors>
 <mailingLists>
